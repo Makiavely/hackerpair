@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to HackerPair</title>
+    <title>Welcome to HackerPair on GitHUB</title>
 </head>
 
 <body>

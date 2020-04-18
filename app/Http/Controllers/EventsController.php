@@ -21,7 +21,8 @@ class EventsController extends Controller
       $events = [
         'Laravel Hacking and Coffee',
         'IoT with Raspberry Pi',
-        'Free Vue.js Lessons'
+        'Free Vue.js Lessons',
+        'Fun execises'
       ];
       return view('events.index')->with('events', $events);
     }
